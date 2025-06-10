@@ -5,6 +5,8 @@ Me considero una persona proactiva, con iniciativa y motivación constante por a
 
 📍 Lugo / A Coruña, España
 
+![Profile Views](https://komarev.com/ghpvc/?username=ru-farelo&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
 
 ## 🚀 Sobre mí
 
@@ -37,5 +39,6 @@ Otros: Git, Docker, Visual Studio Code, Ubuntu.
 ## 📫 ¿Hablamos?
 
 [![LinkedIn - Ru Farelo](https://img.shields.io/badge/LinkedIn-Ru_Farelo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ru-farelo-a6b1461b212d)
-[![Email - dfarelo21@gmail.com](https://img.shields.io/badge/Email-dfarelo21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dfarelo21@gmail.com)
+[![Email - ru.farelo@gmail.com](https://img.shields.io/badge/Email-ru.farelo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ru.farelo@gmail.com)
+
 
