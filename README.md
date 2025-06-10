@@ -37,5 +37,5 @@ Otros: Git, Docker, Visual Studio Code, Ubuntu.
 ## 📫 ¿Hablamos?
 
 [![LinkedIn - Ru Farelo](https://img.shields.io/badge/LinkedIn-Ru_Farelo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ru-farelo-a6b1461b212d)
-[![Email - ru.farelo@gmail.com](https://img.shields.io/badge/Email-ru.farelo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ru.farelo@gmail.com)
+[![Email - dfarelo21@gmail.com](https://img.shields.io/badge/Email-dfarelo21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dfarelo21@gmail.com)
 
