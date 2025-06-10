@@ -52,3 +52,4 @@ Otros: Git, Docker, Visual Studio Code, Ubuntu, Obsidian
 ## 📫 ¿Hablamos?
 
 [![LinkedIn - Ru Farelo](https://img.shields.io/badge/LinkedIn-Ru_Farelo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ru-farelo-a6b1461b212d/)
+📧 Puedes escribirme a: **ru.farelo@gmail.com**
