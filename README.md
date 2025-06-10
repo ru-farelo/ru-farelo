@@ -1,7 +1,7 @@
 ## 👋 ¡Hola! Soy Rubén Fernández Farelo
 
 Estudiante de **Ingeniería Informática** en la **Universidade da Coruña (UDC)**, especializado en **Ciencias de la Computación**.  
-Apasionado por la tecnología, disfruto construyendo soluciones que combinan lógica, diseño y utilidad real.
+Me considero una persona proactiva, con iniciativa y motivación constante por aprender y aplicar la tecnología de forma práctica y útil.
 
 📍 Lugo / A Coruña, España
 
@@ -16,11 +16,11 @@ Apasionado por la tecnología, disfruto construyendo soluciones que combinan ló
 
 ## 💡 Tecnologías y herramientas
 
-Lenguajes: Python, Java, JavaScript, C, C++, C#, Elixir, Julia
-Frontend: HTML5, CSS3, React
-Backend: Spring Boot, Node.js
-Bases de datos: MySQL, PostgreSQL
-Otros: Git, Docker, Visual Studio Code, Ubuntu, Obsidian
+Lenguajes: Python, Java, JavaScript, C, C++, C#, Elixir.
+Frontend: HTML5, CSS3, Node.js , React.
+Backend: Express, Node.js.
+Bases de datos: MySQL, SQL Server.
+Otros: Git, Docker, Visual Studio Code, Ubuntu.
 
 ## 📊 Estadísticas de GitHub
 
@@ -28,28 +28,14 @@ Otros: Git, Docker, Visual Studio Code, Ubuntu, Obsidian
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru-farelo&layout=compact&theme=tokyonight)
 
----
 
 ## 🏆 Logros y actividad
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ru-farelo&theme=tokyonight&no-frame=true&margin-w=10&column=7)
 
----
-
-## 📂 Proyectos destacados
-
-- 🔧 **Navantia – App de gestión de bloques de fragata**  
-  Aplicación web full stack para mejorar la trazabilidad del montaje en entornos industriales navales.
-
-- 📚 **Recuperación de Información – Prácticas 2024**  
-  Algoritmos y sistemas de búsqueda desarrollados en el tercer curso del grado.
-
-- 🤖 **Mini proyectos de IA**  
-  Clasificación, predicción y clustering usando Python, scikit-learn y redes neuronales básicas.
-
----
 
 ## 📫 ¿Hablamos?
 
-[![LinkedIn - Ru Farelo](https://img.shields.io/badge/LinkedIn-Ru_Farelo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ru-farelo-a6b1461b212d/)
-📧 Puedes escribirme a: **ru.farelo@gmail.com**
+[![LinkedIn - Ru Farelo](https://img.shields.io/badge/LinkedIn-Ru_Farelo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ru-farelo-a6b1461b212d)
+[![Email - ru.farelo@gmail.com](https://img.shields.io/badge/Email-ru.farelo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ru.farelo@gmail.com)
+
