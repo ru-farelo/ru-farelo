@@ -6,6 +6,7 @@ Me considero una persona proactiva, con iniciativa y motivación constante por a
 📍 Lugo / A Coruña, España
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ru-farelo&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
 _Visitas desde el 10 de junio de 2025_
 
 
