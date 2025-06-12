@@ -24,7 +24,7 @@ Lenguajes: Python, Java, JavaScript, C, C++, C#, Elixir.
 Frontend: HTML5, CSS3, Node.js , React.
 Backend: Express, Node.js.
 Bases de datos: MySQL, SQL Server.
-Otros: Git, Docker, Visual Studio Code, Ubuntu.
+Otros: Git, Visual Studio Code, Linux.
 
 ## 📊 Estadísticas de GitHub
 
