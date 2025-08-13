@@ -33,11 +33,11 @@ _Visitas desde el 10 de junio de 2025_
 
 ## 📂 Proyectos destacados
 
-- **[Navantia - Gestión de bloques de construcción naval](#)**  
+- **[Navantia - Gestión de bloques de construcción naval](https://github.com/ru-farelo/Navantia_Bloques)**  
   Aplicación web Full Stack con API REST para control y visualización en tiempo real de bloques de fragata en talleres de montaje.  
   _Tecnologías:_ Node.js, Express, React, SQL Server, Sequelize.  
 
-- **[Desarrollo de videojuegos 2D y 3D](#)**  
+- **[Desarrollo de videojuegos 2D y 3D](https://drive.google.com/drive/folders/163c0QqlyZsR3tuNQWeO4Z3n3fXOZKZ7A)**  
   Videojuego 2D en Python/Pygame con IA básica y versión 3D en Unity (C#) con arquitectura basada en patrones de diseño y gestión de escenas.  
 
 ---
