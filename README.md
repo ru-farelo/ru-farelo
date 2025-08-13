@@ -37,9 +37,13 @@ _Visitas desde el 10 de junio de 2025_
   Aplicación web Full Stack con API REST para control y visualización en tiempo real de bloques de fragata en talleres de montaje.  
   _Tecnologías:_ Node.js, Express, React, SQL Server, Sequelize.  
 
-- **[Desarrollo de videojuegos 2D y 3D](https://drive.google.com/drive/folders/163c0QqlyZsR3tuNQWeO4Z3n3fXOZKZ7A)**  
-  Videojuego 2D en Python/Pygame con IA básica y versión 3D en Unity (C#) con arquitectura basada en patrones de diseño y gestión de escenas.  
+- **[Videojuego 2D con IA básica](https://drive.google.com/drive/folders/1Dar8koABJGTzcy-CFELCQjvza_eGCPOJ)**  
+  Juego desarrollado en Python con Pygame, con sistema de colisiones, animaciones, HUD dinámico y editor de mapas propio.  
+  _Tecnologías:_ Python, Pygame.  
 
+- **[Videojuego 3D en Unity](https://drive.google.com/drive/folders/163c0QqlyZsR3tuNQWeO4Z3n3fXOZKZ7A)**  
+  Juego ambientado en una isla con misiones, NPCs, enemigos con IA, recolección de objetos y cinemáticas, usando patrones de diseño y prefabs reutilizables.  
+  _Tecnologías:_ Unity, C#.
 ---
 
 ## 📊 Estadísticas de GitHub
@@ -58,4 +62,4 @@ _Visitas desde el 10 de junio de 2025_
 ## 📫 ¿Hablamos?
 
 [![LinkedIn - Ru Farelo](https://img.shields.io/badge/LinkedIn-Ru_Farelo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ru-farelo-a6b1461b212d)  
-[![Email - ru.farelo@gmail.com](https://img.shields.io/badge/Email-ru.farelo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ru.farelo@gmail.com)  
+[![Email - dfarelo21@gmail.com](https://img.shields.io/badge/Email-dfarelo21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dfarelo21@gmail.com)  
