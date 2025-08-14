@@ -33,6 +33,10 @@ _Visitas desde el 10 de junio de 2025_
 
 ## 📂 Proyectos destacados
 
+- **[Universidad_practicas](https://github.com/ru-farelo/Universidad_practicas)**  
+  Repositorio que reúne todas las prácticas, ejercicios y proyectos académicos desarrollados durante la carrera de Ingeniería Informática en la Universidade da Coruña (UDC).  
+  _Contenidos:_ Desarrollo de compiladores, sistemas distribuidos, visión por computador, recuperación de información, programación concurrente, IA, videojuegos y más.
+
 - **[Navantia - Gestión de bloques de construcción naval](https://github.com/ru-farelo/Navantia_Bloques)**  
   Aplicación web Full Stack con API REST para control y visualización en tiempo real de bloques de fragata en talleres de montaje.  
   _Tecnologías:_ Node.js, Express, React, SQL Server, Sequelize.  
@@ -44,6 +48,7 @@ _Visitas desde el 10 de junio de 2025_
 - **[Videojuego 3D en Unity](https://drive.google.com/drive/folders/163c0QqlyZsR3tuNQWeO4Z3n3fXOZKZ7A)**  
   Juego ambientado en una isla con misiones, NPCs, enemigos con IA, recolección de objetos y cinemáticas, usando patrones de diseño y prefabs reutilizables.  
   _Tecnologías:_ Unity, C#.
+  
 ---
 
 ## 📊 Estadísticas de GitHub
