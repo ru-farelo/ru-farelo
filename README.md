@@ -10,17 +10,17 @@ _Visitas desde el 10 de junio de 2025_
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-- 🎓 Finalizando el **Trabajo de Fin de Grado** (septiembre 2025) sobre **priorización genética con aprendizaje automático**, aplicando técnicas de selección de características y PU Learning a datos biomédicos.  
-- 💻 Experiencia en desarrollo **Full Stack** (Node.js, React, SQL Server) y APIs REST, adquirida durante prácticas en entornos industriales e IT.  
-- 🏭 En **Navantia**, desarrollé desde cero una aplicación web para la gestión de bloques de construcción naval, con visualización en tiempo real y consultas optimizadas.  
-- 🖥️ En **Raiola Networks**, administré infraestructuras de hosting, dominios y migraciones de sitios web, mejorando la continuidad del servicio.  
-- 🧠 Interés especial en **IA**, **visión por computador** y **análisis de datos**, así como en el desarrollo de software escalable y eficiente.  
+- Finalizando el **Trabajo de Fin de Grado** (septiembre 2025) sobre **priorización genética con aprendizaje automático**, aplicando técnicas de selección de características y PU Learning a datos biomédicos.  
+- Experiencia en desarrollo **Full Stack** (Node.js, React, SQL Server) y APIs REST, adquirida durante prácticas en entornos industriales e IT.  
+- En **Navantia**, desarrollé desde cero una aplicación web para la gestión de bloques de construcción naval, con visualización en tiempo real y consultas optimizadas.  
+- En **Raiola Networks**, administré infraestructuras de hosting, dominios y migraciones de sitios web, mejorando la continuidad del servicio.  
+- Interés especial en **IA**, **visión por computador** y **análisis de datos**, así como en el desarrollo de software escalable y eficiente.  
 
 ---
 
-## 💡 Tecnologías y herramientas
+## Tecnologías y herramientas
 
 **Lenguajes:** Python, Java, JavaScript, C, C++, C#, PHP, Elixir, Flutter  
 **Frontend:** HTML5, CSS3, React  
@@ -51,20 +51,20 @@ _Visitas desde el 10 de junio de 2025_
   
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ru-farelo&show_icons=true&theme=tokyonight&count_private=true&hide=prs)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru-farelo&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🏆 Logros y actividad
+## Logros y actividad
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ru-farelo&theme=tokyonight&no-frame=true&margin-w=10&column=7)  
 
 ---
 
-## 📫 ¿Hablamos?
+## ¿Hablamos?
 
 [![LinkedIn - Ru Farelo](https://img.shields.io/badge/LinkedIn-Ru_Farelo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ru-farelo-a6b1461b212d)  
 [![Email - dfarelo21@gmail.com](https://img.shields.io/badge/Email-dfarelo21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dfarelo21@gmail.com)  
