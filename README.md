@@ -12,7 +12,7 @@ _Visitas desde el 10 de junio de 2025_
 
 ## Sobre mí
 
-- Finalizando el **Trabajo de Fin de Grado** (septiembre 2025) sobre **priorización genética con aprendizaje automático**, aplicando técnicas de selección de características y PU Learning a datos biomédicos.  
+- Hice el **Trabajo de Fin de Grado** sobre **priorización genética con aprendizaje automático**, aplicando técnicas de selección de características y PU Learning a datos biomédicos.  
 - Experiencia en desarrollo **Full Stack** (Node.js, React, SQL Server) y APIs REST, adquirida durante prácticas en entornos industriales e IT.  
 - En **Navantia**, desarrollé desde cero una aplicación web para la gestión de bloques de construcción naval, con visualización en tiempo real y consultas optimizadas.  
 - En **Raiola Networks**, administré infraestructuras de hosting, dominios y migraciones de sitios web, mejorando la continuidad del servicio.  
