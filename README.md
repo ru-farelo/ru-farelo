@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Rubén Fernández Farelo
 
-Graduando en **Ingeniería Informática** en la **Universidade da Coruña (UDC)**, mención en **Computación**.  
+**Ingeniero Informático** de la **Universidade da Coruña (UDC)**, mención en **Computación**.  
 Me considero una persona proactiva, con iniciativa y motivación constante por aprender y aplicar la tecnología para resolver problemas reales.
 
 📍 Lugo / A Coruña, España  
@@ -33,6 +33,10 @@ _Visitas desde el 10 de junio de 2025_
 
 ## 📂 Proyectos destacados
 
+- **[TFG - Selección de Características para Priorización Genética](https://github.com/ru-farelo/TFG-DR-Feature-Selection)** 
+  Proyecto de Fin de Grado calificado con **Matrícula de Honor (9,6)**. Desarrollo de un pipeline de Machine Learning para identificar genes relevantes en datos biomédicos de alta dimensionalidad, mejorando la precisión y la interpretabilidad de los modelos.
+  _Tecnologías:_ Python, C++, Fast-mRMR, CatBoost, Balanced Random Forest, Scikit-learn, Pandas.
+
 - **[Universidad_practicas](https://github.com/ru-farelo/Universidad_practicas)**  
   Repositorio que reúne todas las prácticas, ejercicios y proyectos académicos desarrollados durante la carrera de Ingeniería Informática en la Universidade da Coruña (UDC).  
   _Contenidos:_ Desarrollo de compiladores, sistemas distribuidos, visión por computador, recuperación de información, programación concurrente, IA, videojuegos y más.
@@ -40,14 +44,6 @@ _Visitas desde el 10 de junio de 2025_
 - **[Navantia - Gestión de bloques de construcción naval](https://github.com/ru-farelo/Navantia_Bloques)**  
   Aplicación web Full Stack con API REST para control y visualización en tiempo real de bloques de fragata en talleres de montaje.  
   _Tecnologías:_ Node.js, Express, React, SQL Server, Sequelize.  
-
-- **[Videojuego 2D con IA básica](https://drive.google.com/drive/folders/1Dar8koABJGTzcy-CFELCQjvza_eGCPOJ)**  
-  Juego desarrollado en Python con Pygame, con sistema de colisiones, animaciones, HUD dinámico y editor de mapas propio.  
-  _Tecnologías:_ Python, Pygame.  
-
-- **[Videojuego 3D en Unity](https://drive.google.com/drive/folders/163c0QqlyZsR3tuNQWeO4Z3n3fXOZKZ7A)**  
-  Juego ambientado en una isla con misiones, NPCs, enemigos con IA, recolección de objetos y cinemáticas, usando patrones de diseño y prefabs reutilizables.  
-  _Tecnologías:_ Unity, C#.
   
 ---
 
