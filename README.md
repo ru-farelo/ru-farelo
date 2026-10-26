@@ -1,66 +1,60 @@
-## 👋 ¡Hola! Soy Rubén Fernández Farelo
+# Rubén Fernández Farelo
 
-**Ingeniero Informático** de la **Universidade da Coruña (UDC)**, mención en **Computación**.  
-Me considero una persona proactiva, con iniciativa y motivación constante por aprender y aplicar la tecnología para resolver problemas reales.
+**Junior Data Engineer** · Python · SQL · Airflow · ETL · Machine Learning
 
-📍 Lugo / A Coruña, España  
+Ingeniero Informático por la Universidade da Coruña (mención en Computación) y alumno del Máster en Ingeniería Informática (MUEI). Construyo pipelines de datos y modelos de Machine Learning. Basado en A Coruña / Lugo, España.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ru-farelo&label=Profile%20views&color=0e75b6&style=for-the-badge)  
-_Visitas desde el 10 de junio de 2025_  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rubén_Fernández_Farelo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ru-farelo-a6b1461b212d)
+[![Email](https://img.shields.io/badge/Email-dfarelo21@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dfarelo21@gmail.com)
 
 ---
 
 ## Sobre mí
 
-- Hice el **Trabajo de Fin de Grado** sobre **priorización genética con aprendizaje automático**, aplicando técnicas de selección de características y PU Learning a datos biomédicos.  
-- Experiencia en desarrollo **Full Stack** (Node.js, React, SQL Server) y APIs REST, adquirida durante prácticas en entornos industriales e IT.  
-- En **Navantia**, desarrollé desde cero una aplicación web para la gestión de bloques de construcción naval, con visualización en tiempo real y consultas optimizadas.  
-- En **Raiola Networks**, administré infraestructuras de hosting, dominios y migraciones de sitios web, mejorando la continuidad del servicio.  
-- Interés especial en **IA**, **visión por computador** y **análisis de datos**, así como en el desarrollo de software escalable y eficiente.  
+- **Data Engineer en Aluman** (nov. 2025 – feb. 2026): pipelines ETL con Airflow desde el ERP Sage X3 y APIs externas hasta un Data Warehouse (SQL Server + MongoDB), con modelo en estrella listo para Power BI.
+- **Automatización:** reduje de 3 semanas a menos de 15 minutos la extracción de piezas de planos AutoCAD con Python.
+- **Investigación:** primer autor de un artículo aceptado en IEEE WCCI 2026 sobre priorización genética con Fast-mRMR ([preprint en arXiv](https://arxiv.org/abs/2511.21211)). Mi TFG, base del artículo, obtuvo Matrícula de Honor (9,6) y un accésit en los Premios TFG Aplicado FIC-UDC 2026.
+- **Formación cloud y big data:** AWS Certified Cloud Practitioner. En el máster trabajo con Databricks, PySpark y Azure.
+- **Base full-stack:** prácticas en Navantia desarrollando una aplicación web con Node.js, React y SQL Server.
 
 ---
 
-## Tecnologías y herramientas
+## Tecnologías
 
-**Lenguajes:** Python, Java, JavaScript, C, C++, C#, PHP, Elixir, Flutter  
-**Frontend:** HTML5, CSS3, React  
-**Backend:** Node.js, Express, REST, JDBC, SQL  
-**Bases de datos:** MySQL, SQL Server  
-**Otros:** Git, Linux, Unity, Blender, Visual Studio, IntelliJ, Process Simulate, Siemens NX  
-**IA y Datos:** Machine Learning, Visión por Computador, Análisis de Datos (NumPy, Pandas, Scikit-learn, CatBoost)  
-
----
-
-## 📂 Proyectos destacados
-
-- **[TFG - Selección de Características para Priorización Genética](https://github.com/ru-farelo/TFG-DR-Feature-Selection)** 
-  Proyecto de Fin de Grado calificado con **Matrícula de Honor (9,6)**. Desarrollo de un pipeline de Machine Learning para identificar genes relevantes en datos biomédicos de alta dimensionalidad, mejorando la precisión y la interpretabilidad de los modelos.
-  _Tecnologías:_ Python, C++, Fast-mRMR, CatBoost, Balanced Random Forest, Scikit-learn, Pandas.
-
-- **[Universidad_practicas](https://github.com/ru-farelo/Universidad_practicas)**  
-  Repositorio que reúne todas las prácticas, ejercicios y proyectos académicos desarrollados durante la carrera de Ingeniería Informática en la Universidade da Coruña (UDC).  
-  _Contenidos:_ Desarrollo de compiladores, sistemas distribuidos, visión por computador, recuperación de información, programación concurrente, IA, videojuegos y más.
-
-- **[Navantia - Gestión de bloques de construcción naval](https://github.com/ru-farelo/Navantia_Bloques)**  
-  Aplicación web Full Stack con API REST para control y visualización en tiempo real de bloques de fragata en talleres de montaje.  
-  _Tecnologías:_ Node.js, Express, React, SQL Server, Sequelize.  
-  
----
-
-## Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ru-farelo&show_icons=true&theme=tokyonight&count_private=true&hide=prs)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru-farelo&layout=compact&theme=tokyonight)  
+| Área | Herramientas |
+|---|---|
+| **Data Engineering** | Apache Airflow, ETL, Data Warehouse, modelado dimensional (star schema), arquitectura medallion (bronze/silver), calidad y gobierno del dato, Power BI |
+| **Lenguajes** | Python, SQL, C++, Java, JavaScript |
+| **Bases de datos** | SQL Server, PostgreSQL, MongoDB, MySQL |
+| **Machine Learning** | Scikit-learn, Pandas, NumPy, CatBoost, Feature Selection (Fast-mRMR) |
+| **Cloud y DevOps** | AWS, Docker, Git / GitLab (CI/CD), Linux |
+| **Desarrollo web** | Node.js, Express, React, APIs REST |
+| **En formación (máster)** | Databricks, PySpark, Azure |
 
 ---
 
-## Logros y actividad
+## Proyectos destacados
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ru-farelo&theme=tokyonight&no-frame=true&margin-w=10&column=7)  
+### [fs-dr-gene-prioritization](https://github.com/ru-farelo/fs-dr-gene-prioritization)
+Pipeline de Machine Learning para priorización de genes relacionados con la restricción calórica (Dietary Restriction) a partir de datos biomédicos de alta dimensionalidad. Integra Fast-mRMR para filtrar ruido y construir modelos más simples e interpretables. Código del artículo aceptado en IEEE WCCI 2026.
+`Python` `C++` `Fast-mRMR` `CatBoost` `Balanced Random Forest` `Scikit-learn` `Pandas`
+
+### [Navantia_Bloques](https://github.com/ru-farelo/Navantia_Bloques)
+Aplicación web full-stack con API REST para controlar y visualizar en tiempo real los bloques de fragata en talleres de montaje, desarrollada durante mis prácticas en Navantia.
+`Node.js` `Express` `React` `SQL Server` `Sequelize`
+
+### [Universidad_practicas](https://github.com/ru-farelo/Universidad_practicas)
+Prácticas y proyectos del grado en Ingeniería Informática: compiladores, sistemas distribuidos, visión por computador, recuperación de información y programación concurrente.
+`Java`
 
 ---
 
-## ¿Hablamos?
+## Publicación
 
-[![LinkedIn - Ru Farelo](https://img.shields.io/badge/LinkedIn-Ru_Farelo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ru-farelo-a6b1461b212d)  
-[![Email - dfarelo21@gmail.com](https://img.shields.io/badge/Email-dfarelo21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dfarelo21@gmail.com)  
+Fernández-Farelo, R., Paz-Ruza, J., Guijarro-Berdiñas, B., Alonso-Betanzos, A. y Freitas, A. A. *Robust gene prioritization for Dietary Restriction via Fast-mRMR Feature Selection techniques.* IEEE WCCI 2026. [arXiv:2511.21211](https://arxiv.org/abs/2511.21211)
+
+---
+
+## Contacto
+
+Abierto a oportunidades como Data Engineer junior. Escríbeme por [LinkedIn](https://www.linkedin.com/in/ru-farelo-a6b1461b212d) o a [dfarelo21@gmail.com](mailto:dfarelo21@gmail.com).
