@@ -1,6 +1,6 @@
 # Rubén Fernández Farelo
 
-**Junior Data Engineer** · Python · SQL · Airflow · ETL · Machine Learning
+**Junior Data Engineer** · Python · SQL · ETL · Machine Learning
 
 Ingeniero Informático por la Universidade da Coruña (mención en Computación) y alumno del Máster en Ingeniería Informática (MUEI). Construyo pipelines de datos y modelos de Machine Learning. Basado en A Coruña / Lugo, España.
 
