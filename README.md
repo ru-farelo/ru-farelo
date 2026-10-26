@@ -2,7 +2,7 @@
 
 **Junior Data Engineer** · Python · SQL · ETL · Machine Learning
 
-Ingeniero Informático por la Universidade da Coruña (mención en Computación) y alumno del Máster en Ingeniería Informática (MUEI). Construyo pipelines de datos y modelos de Machine Learning. Basado en A Coruña / Lugo, España.
+Ingeniero Informático por la Universidade da Coruña (mención en Computación) y alumno del Máster en Ingeniería Informática (MUEI). Construyo pipelines de datos y modelos de Machine Learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rubén_Fernández_Farelo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ru-farelo-a6b1461b212d)
 [![Email](https://img.shields.io/badge/Email-dfarelo21@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dfarelo21@gmail.com)
